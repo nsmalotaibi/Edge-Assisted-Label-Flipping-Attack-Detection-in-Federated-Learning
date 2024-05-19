@@ -71,8 +71,4 @@ authors={Alotaibi,N and Felemban, M and }
 }
 ```
 
-<br /> 
-[hi](#hi)
-
-
 
