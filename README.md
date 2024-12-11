@@ -1,6 +1,6 @@
 # Early-LFA-Detection
 
-This repository is about the detection of Label Flipping Attacks (LFA) in Client-Edge-Cloud Federated Learning systems.
+This repository is about the "Edge-Assisted Label-Flipping Attack Detection in Federated Learning" paper which was published in IEEE Open Journal of the Communications Society
 
 ## Environment Setup
 
@@ -65,9 +65,12 @@ Once the environment setup is complete, you can run the experiments either throu
 ## Citation
 If you use this code, please cite the paper:
 ```
-@artical{LFA-Detection,
-title={LFA-Detection in Client-Edge-Cloud Federated Learning systems},
-authors={Alotaibi,N and Felemban, M and }
+@article{alotaibi2024edge,
+  title={Edge-Assisted Label-Flipping Attack Detection in Federated Learning},
+  author={AlOtaibi, Nourah S and Felemban, Muhamad and Mahmood, Sajjad},
+  journal={IEEE Open Journal of the Communications Society},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
